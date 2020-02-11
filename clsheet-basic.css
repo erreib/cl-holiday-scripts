@@ -18,7 +18,9 @@
   --font-family-base: "Open Sans", Arial, sans-serif;
 }
 
-.asdfasdfsdf {}
+.asdfasdfsdf {
+display:none;
+}
 
 .row-wrap {
   display: flex;
